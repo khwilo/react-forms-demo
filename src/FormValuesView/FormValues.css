@@ -1,0 +1,23 @@
+.form_values {
+  font-family: 'Handlee', cursive;
+  font-size: 1.5rem;
+}
+
+.value {
+  background-color: var(--clr-orange);
+  font-weight: bold;
+  color: var(--clr-dark);
+  margin-left: 0.5rem;
+}
+
+.fa-check {
+  color: var(--clr-success);
+}
+
+.fa-times {
+  color: var(--clr-danger);
+}
+
+.country {
+  text-transform: capitalize;
+}

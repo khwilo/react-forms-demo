@@ -18,13 +18,3 @@ body {
   font-size: 1rem;
   font-family: 'Lato', sans-serif;
 }
-
-input,
-select {
-  font-family: cursive;
-  font-size: 1rem;
-}
-
-select {
-  outline-color: var(--clr-blue);
-}
