@@ -52,10 +52,7 @@ const FormValuesView = ({
         </p>
 
         <div>
-          <p>
-            Regarding the programming languages you enjoy working with you have
-            select the following:
-          </p>
+          <p>Programming languages you enjoy working with:</p>
           <ul>
             {languages.map(({ id, value, isChecked }) => (
               <li key={id}>
